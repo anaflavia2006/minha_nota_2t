@@ -1,0 +1,123 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  text-align: center;
+}
+.CB
+.als{
+   position: relative;
+   background: rgb(161, 230, 218);
+   width: 50px;
+   height: 50px;
+   color: #FFFFFF;
+   left: 50%;
+}
+.menuPrincipal {
+  position: fixed;
+  background: #df6f06;
+  width: 100%;
+  height: 45px;
+  top: 0pt;
+  left: 0;
+  z-index: 900;
+}
+nav ul {  
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: 0;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color:rgb(231, 231, 176);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Times New Roman', Times, serif;
+  text-transform: uppercase;
+}
+li a:hover{
+  background:#c9ac2a;
+  color: black;
+} 
+.et{
+    position: absolute;
+    width: 90%;
+    height: 120px;
+    background: #ade0e2;
+    top: 45px;
+    left: 0;
+    margin: 20px;
+    border-color: rgb(235, 240, 235);
+    border-width: 20px;
+    border-style: solid;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+#aguia {
+   width: 20%;
+}
+#rodape {
+   position: relative;
+   bottom: 0;
+   border-radius: 25px;
+   width: 50%;
+   height: 30px;
+   background: #FAA825;
+   color:#030303;
+   display: flex;
+   justify-content: center;
+   font-size: 26px;
+   font-family: 'Times New Roman', Times, serif;
+}
+.capaRodape {
+  position: relative;
+  width: 100%;
+  display: flex;
+   justify-content: center;
+}
+.conteudo {
+  position: absolute;
+  top: 45px;
+  width: 95%;
+  padding: 20px;
+}
+
+.conteudoAnual{
+   width: 100%;
+}
+.um {
+  position: absolute;
+    width: 200%;
+    height: 1750px;
+    background: #ade0e2;
+    top: 120px;
+    left: 0;
+    margin: 20px;
+    border-color: rgb(235, 240, 235);
+    border-width: 35px;
+    border-style: solid;
+    padding: 35px;
+    display: flex;
+    justify-content: center;
+   
+}
+
+.video {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+.CB {
+position: relative;
+   width: 300%;
+   height: 100px;
+   display: flex;
+   justify-content: center;
+}
