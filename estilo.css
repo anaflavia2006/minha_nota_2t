@@ -5,7 +5,6 @@ body {
 h1 {
   text-align: center;
 }
-.CB
 .als{
    position: relative;
    background: rgb(161, 230, 218);
@@ -114,7 +113,7 @@ li a:hover{
   display: flex;
   justify-content: center;
 }
-.CB {
+.images {
 position: relative;
    width: 300%;
    height: 100px;
